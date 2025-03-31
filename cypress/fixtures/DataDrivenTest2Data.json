@@ -1,0 +1,50 @@
+[{
+    
+    "website"           :   "https://parabank.parasoft.com/parabank/index.htm",
+    "firstName"         :   "Sivasankar",
+    "lastName"          :   "Sankarapandian",
+    "address"           :   "Chennai",
+    "Zipcode"           :   "600044",
+    "phoneNo"           :   "1234567890",
+    "UserName"          :   "Siva@12319",
+    "PassWord"          :   "Siva@123",
+    "ConfirmPassWord"   :   "Siva@123",
+    "City"              :   "CHN",
+    "State"             :   "TamilNadu",
+    "SSNNo"             :   "1472583690"
+
+},
+{
+    
+    "website"           :   "https://parabank.parasoft.com/parabank/index.htm",
+    "firstName"         :   "Sivasankar",
+    "lastName"          :   "Sankarapandian",
+    "address"           :   "Chennai",
+    "Zipcode"           :   "600044",
+    "phoneNo"           :   "1234567890",
+    "UserName"          :   "Siva@12317",
+    "PassWord"          :   "Siva@123",
+    "ConfirmPassWord"   :   "Siva@123",
+    "City"              :   "CHN",
+    "State"             :   "TamilNadu",
+    "SSNNo"             :   "1472583690"
+
+},
+{
+    
+    "website"           :   "https://parabank.parasoft.com/parabank/index.htm",
+    "firstName"         :   "Sivasankar",
+    "lastName"          :   "Sankarapandian",
+    "address"           :   "Chennai",
+    "Zipcode"           :   "600044",
+    "phoneNo"           :   "1234567890",
+    "UserName"          :   "Siva@12320",
+    "PassWord"          :   "Siva@123",
+    "ConfirmPassWord"   :   "Siva@123",
+    "City"              :   "CHN",
+    "State"             :   "TamilNadu",
+    "SSNNo"             :   "1472583690"
+
+}
+
+]
