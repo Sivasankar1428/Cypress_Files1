@@ -2,6 +2,7 @@ import 'cypress-iframe'
 
 describe('Assertion Test suite 1', () => {
   it('Login with correct credintials Test 1', () => {
+    
     cy.visit('https://opensource-demo.orangehrmlive.com/web/index.php/auth/login')
     cy.get('input[name=username]').type("Admin");
     cy.get('input[name=password]').type("admin123");
@@ -29,6 +30,10 @@ describe('Assertion Test suite 1', () => {
 
 
   })
+
+   it('login with invalid credintials',()=>{
+    cy.visit('https://opensource-demo.orangehrmlive.com/web/index.php/auth/login');
+   })
 
 
 })
